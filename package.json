@@ -2,6 +2,6 @@
   "name": "create-basic-demo",
   "version": "0.1.0",
   "bin": {
-    "create-my-template": "./index.js"
+    "create-basic-demo": "./index.js"
   }
 }
