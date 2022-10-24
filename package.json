@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Create a simple Vite starter for simple demos",
   "bin": {
-    "create-my-template": "./index.js"
+    "create-basic-demo": "./index.js"
   },
   "repository": {
     "type": "git",
