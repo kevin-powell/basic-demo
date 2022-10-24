@@ -1,7 +1,18 @@
 {
   "name": "create-basic-demo",
   "version": "0.1.0",
+  "description": "Create a simple Vite starter for simple demos",
   "bin": {
-    "create-basic-demo": "./main.js"
+    "create-my-template": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin-powell/create-basic-demo.git"
+  },
+  "keywords": [
+    "template"
+  ],
+  "dependencies": {
+    "cross-spawn": "^7.0.3"
   }
 }

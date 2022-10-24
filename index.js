@@ -1,7 +1,5 @@
 #!/usr/bin/env node
 
-// Usage: npx create-my-template my-app
-
 const spawn = require("cross-spawn");
 const fs = require("fs");
 const path = require("path");
